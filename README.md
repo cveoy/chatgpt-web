@@ -11,3 +11,5 @@
 
 
 本项目可部署到任何静态存储上 例如oss cos nginx目录下
+
+演示站(被墙): https://www.cveoy.com/ 
