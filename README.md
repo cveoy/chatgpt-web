@@ -14,6 +14,6 @@
 
 演示站(被墙): https://www.cveoy.com/ 
 
-buy the author coffee 
+Please buy the author a coffee
 
 ETH: 0xD6BDb748FDFc1853c65AF67Ee6AC29fBf88025c6
