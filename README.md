@@ -1,16 +1,9 @@
-# chatgpt-web
+ chatgpt-web
+
+由于某些站长的滥用 第一个1w额度账号已用完
+api不再免费对其他站使用 如需合作请联系邮箱：wxgpt@qq.com
 
 
-
->git clone git@github.com:cveoy/chatgpt-web.git
-
-
-
-双击index.html 即可本地使用
-
-
-
-本项目可部署到任何静态存储上 例如oss cos nginx目录下
 
 演示站(被墙): https://www.cveoy.com/ 
 
